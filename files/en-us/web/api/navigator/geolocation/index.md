@@ -1,3 +1,6 @@
+[MozillaVPN_Logs_2023-33-10-13-33-52.txt](https://github.com/mdn/content/files/11442202/MozillaVPN_Logs_2023-33-10-13-33-52.txt)
+
+
 ---
 title: "Navigator: geolocation property"
 short-title: geolocation
